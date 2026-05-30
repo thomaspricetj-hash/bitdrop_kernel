@@ -1,0 +1,10 @@
+^C:\USERS\THOMAS PRICE\DESKTOP\KERNAL\BUILD\CMAKEFILES\AF81B43B1D1ED5456085BDCF6D9EFB24\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" "-SC:/Users/thomas price/Desktop/kernal" "-BC:/Users/thomas price/Desktop/kernal/build" --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file "C:/Users/thomas price/Desktop/kernal/build/BitDropGPU.slnx"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

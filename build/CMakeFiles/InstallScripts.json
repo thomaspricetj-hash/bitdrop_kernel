@@ -1,0 +1,9 @@
+{
+	"InstallScripts" : 
+	[
+		"C:/Users/thomas price/Desktop/kernal/build/cmake_install.cmake",
+		"C:/Users/thomas price/Desktop/kernal/build/src/bitdrop_gpu/cmake_install.cmake",
+		"C:/Users/thomas price/Desktop/kernal/build/python/cmake_install.cmake"
+	],
+	"Parallel" : false
+}

@@ -1,0 +1,7 @@
+C:/Users/thomas price/Desktop/kernal/build/CMakeFiles/bitdrop_bench.dir
+C:/Users/thomas price/Desktop/kernal/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/thomas price/Desktop/kernal/build/CMakeFiles/ZERO_CHECK.dir
+C:/Users/thomas price/Desktop/kernal/build/src/bitdrop_gpu/CMakeFiles/bitdrop_gpu_core.dir
+C:/Users/thomas price/Desktop/kernal/build/src/bitdrop_gpu/CMakeFiles/ALL_BUILD.dir
+C:/Users/thomas price/Desktop/kernal/build/python/CMakeFiles/bitdrop_gpu.dir
+C:/Users/thomas price/Desktop/kernal/build/python/CMakeFiles/ALL_BUILD.dir

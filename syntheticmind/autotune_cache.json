@@ -1,0 +1,16 @@
+{
+  "version": 4,
+  "config": {
+    "stage": "mid",
+    "block": 64,
+    "unroll": 1,
+    "tile": 32,
+    "rules_per_tile": 24,
+    "multi_bank": 0,
+    "similarity": 1,
+    "half2": 0
+  },
+  "score": 4882613,
+  "timestamp": 1780141013.4864426,
+  "hash": "1d83b4513089f991088b35723cf2e9a262dd7867b3005bce84932f5a9015d792"
+}
